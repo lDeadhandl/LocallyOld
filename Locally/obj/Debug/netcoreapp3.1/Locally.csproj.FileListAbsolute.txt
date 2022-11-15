@@ -1,5 +1,3 @@
-C:\Users\Stefan Vladetic\Code\Locally\Locally\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Stefan Vladetic\Code\Locally\Locally\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Stefan Vladetic\Code\Locally\Locally\bin\Debug\netcoreapp3.1\Locally.exe
 C:\Users\Stefan Vladetic\Code\Locally\Locally\bin\Debug\netcoreapp3.1\Locally.deps.json
 C:\Users\Stefan Vladetic\Code\Locally\Locally\bin\Debug\netcoreapp3.1\Locally.runtimeconfig.json
@@ -47,10 +45,16 @@ C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\Locally.As
 C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\Locally.csproj.CoreCompileInputs.cache
 C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\Locally.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\staticwebassets\Locally.StaticWebAssets.Manifest.cache
-C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\staticwebassets\Locally.StaticWebAssets.xml
-C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\scopedcss\bundle\Locally.styles.css
 C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\Locally.RazorTargetAssemblyInfo.cache
 C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\Locally.csproj.CopyComplete
 C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\Locally.dll
 C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\Locally.pdb
 C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\Locally.genruntimeconfig.cache
+C:\Users\Stefan Vladetic\Code\Locally\Locally\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stefan Vladetic\Code\Locally\Locally\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stefan Vladetic\Code\Locally\Locally\bin\Debug\netcoreapp3.1\Locally.StaticWebAssets.xml
+C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\staticwebassets\Locally.StaticWebAssets.Pack.cache
+C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Locally.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Locally.props
+C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Locally.props
+C:\Users\Stefan Vladetic\Code\Locally\Locally\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Locally.props
